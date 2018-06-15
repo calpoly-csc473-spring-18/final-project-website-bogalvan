@@ -1,2 +1,0 @@
-//home/bgalvanb/part5-master/build/CMakeFiles/parser.dir
-//home/bgalvanb/part5-master/build/CMakeFiles/raytrace.dir
